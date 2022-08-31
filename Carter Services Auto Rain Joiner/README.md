@@ -24,3 +24,6 @@
 
 ## Notes:
 - Best If Ran Overnight or on a another unused pc on the side.
+
+## Take some free letters!
+- TWFkZSBCeTogQ2FydGVyIFNlcnZpY2VzICAgICB8ICAgICAgIERpc2NvcmQ6IGh0dHBzOi8vZGlzY29yZC5nZy9KaFB1a2o5cXNQ
